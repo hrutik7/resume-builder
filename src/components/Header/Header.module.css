@@ -1,0 +1,36 @@
+.container{
+    padding: 50px 30px;
+    text-align: center;
+    width: 96%;
+    gap: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgba(188, 233, 245, 0.559);
+    min-height: 80vh;
+
+}
+
+.container .heading {
+    margin: 0 auto;
+    background-color: black;
+    background-clip: text;
+    color: transparent;
+    max-width: 552px;
+    font-size: 3rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.heading span{
+    background-clip: text;
+    background-image: linear-gradient(to right,#49e4d7,#0707ac);
+    text-shadow: #49e4d7 3px 3px 3px 3px;
+}
+
+
+.right img{
+    width: 400px;
+}
+
+
