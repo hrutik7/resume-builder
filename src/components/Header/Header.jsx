@@ -10,7 +10,7 @@ const Header = () => {
         </p>
 
         <p className={styles.heading}>
-            Make your own resume . <span> It's free</span>
+            Make your own resume.<span> It's free</span>
         </p>
         </div>
         
